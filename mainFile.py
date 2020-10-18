@@ -20,11 +20,6 @@ bmagenta = "\033[0;95m"
 bcyan = "\033[0;96m"
 bwhite = "\033[0;97m"
 
-
-
-
-
-
 os.system('clear')
 def typewriter(message):
 	for i in message:
@@ -47,6 +42,9 @@ def typewriter(message):
 			time.sleep(0.08)
 		else:
 			time.sleep(0.2)
+
+			
+typewriter('Welcome to the glitch! An interactive python learning class! I am your host, zoom bot ')
       
       
       
