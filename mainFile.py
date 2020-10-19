@@ -44,7 +44,8 @@ def typewriter(message):
 			time.sleep(0.2)
 
 			
-typewriter('Welcome to the glitch! An interactive python learning class! I am your host, zoom bot ')
+typewriter('Welcome to the glitch! An interactive python learning class! I am your host, zoom bot! ')
+typewriter('I like to also teach html')
       
       
       
